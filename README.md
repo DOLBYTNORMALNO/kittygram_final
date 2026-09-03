@@ -5,7 +5,7 @@ Kittygram — это социальная сеть, которая предос�
 
 Клонируйте репозиторий и перейдите в него:
 
-    git clone git@github.com:DOLBYTNORMALNO/kittygram_final.git
+    git clone git@github.com:GiftedWrong/kittygram_final.git
     cd kittygram_final
 
 
